@@ -1,6 +1,6 @@
 ## Hi there 👋
 - ***Mình là Tuấn*** 🌱.
-- **Liên hệ Facebook**: *(https://www.facebook.com/tuan.nguyen.467865?locale=vi_VN)*
+- **Liên hệ Facebook**: *https://www.facebook.com/tuan.nguyen.467865?locale=vi_VN*
 <!--
 **chunaivang/chunaivang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
